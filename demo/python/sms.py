@@ -3,7 +3,7 @@
 
 from aliyunsdkcore.client import AcsClient
 from aliyunsdkcore.request import CommonRequest
-client = AcsClient('AK', 'SK', 'default')
+client = AcsClient('AK', 'SK', 'default')) #替换为所需的 AK 和 SK
 
 request = CommonRequest()
 request.set_accept_format('json')
