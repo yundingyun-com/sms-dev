@@ -6,16 +6,12 @@
 
 ## 1. 安装SDK包
 
-本平台兼容阿里云 python sdk ，详细说明请见[官方文档](https://help.aliyun.com/document_detail/112147.html?spm=a2c4g.11186623.6.645.59de5f30Cp3u3n)
-
-### 1.1 安装方式
-
-可以通过以下两种方式安装Python SDK。
+本平台兼容阿里云 python sdk ，详细说明请见[官方文档](https://help.aliyun.com/document_detail/112147.html?spm=a2c4g.11186623.6.645.59de5f30Cp3u3n)。可以通过以下两种方式安装Python SDK。
 
 * 使用依赖包工具安装（推荐）
 * 自行下载安装
 
-### 1.2 使用依赖包工具安装（推荐）
+### 1.1 使用依赖包工具安装（推荐）
 
 执行以下命令，安装阿里云SDK核心库：
 
@@ -25,7 +21,7 @@ pip install aliyun-python-sdk-core
 
 在安装完成后，您可以使用[OpenAPI Explorer](https://api.aliyun.com/?spm=a2c4g.11186623.2.15.57c059ad3QlmqO#/?product=Dysmsapi&lang=PYTHON)来生成相关API的Demo并应用在所需的项目中。
 
-### 1.3 自行下载安装
+### 1.2 自行下载安装
 
 使用git clone或其它手段下载aliyun-python-sdk-core并自行添加解决方案。
 
